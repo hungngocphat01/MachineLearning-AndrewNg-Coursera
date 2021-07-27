@@ -1,5 +1,5 @@
 These are my answers for the programming assignments of the Machine Learning course by Prof. Andrew Ng on Coursera.  
-Programming languages: Octave (6.2.0) and a Python 3 equivalent script.  
+Programming language: Octave (6.2.0). As Python is quite ubiquitous in the field of machine learning nowadays, for each exercise I also implement a Python script that does the equivalent tasks as the Octave scripts.
 Last updated: July 2021.
 
 What have been implemented:
