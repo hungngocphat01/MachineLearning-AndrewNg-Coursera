@@ -8,4 +8,5 @@ What have been implemented:
 - **Week 1:** Linear Regression (single and multi-variate).
 - **Week 2:** Logistic Regression.
 - **Week 3:** Feed-forward and One-vs-all (no Python).
-_ **Week 4:** Backpropagation.
+- **Week 4:** Backpropagation.
+- **Week 5:** Debugging learning algorithms (cross validation).
