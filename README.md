@@ -9,4 +9,6 @@ What have been implemented:
 - **Week 2:** Logistic Regression.
 - **Week 3:** Feed-forward and One-vs-all [no Python].
 - **Week 4:** Backpropagation.
-- **Week 5:** Debugging learning algorithms (cross validation).
+- **Week 5:** Debugging learning algorithms (cross validation) [no Python].
+- **Week 6:** Support Vector Machine [no Python **yet**].
+
