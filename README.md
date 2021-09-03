@@ -2,7 +2,7 @@ This repository comprises of my answers for the programming assignments of the M
 
 Programming language: Octave (6.2.0). As Python is quite ubiquitous in the field of machine learning nowadays, for each exercise I also implement a Python (3.9) script/Jupyter notebook that does the equivalent tasks as in the Octave scripts. Sometimes I only implement the more general functions (example: multi-variate instead of single-variate).
 
-Last updated: August 2021.
+**Last updated**: September 2021.
 
 What have been implemented:
 - **Week 1:** Linear Regression (single and multi-variate).
