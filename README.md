@@ -11,4 +11,5 @@ What have been implemented:
 - **Week 4:** Backpropagation.
 - **Week 5:** Debugging learning algorithms (cross validation) [no Python].
 - **Week 6:** Support Vector Machine.
+- **Week 7:** K-Means Clustering & Dimensionality Reduction [no Python yet].
 
