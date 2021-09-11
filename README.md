@@ -14,5 +14,5 @@ What have been implemented:
 
 From now on, I practice my ML Python skill on Kaggle, so no more Python here.
 - **Week 7:** K-Means Clustering & Dimensionality Reduction.
-- **Week 8:** Anomaly Detection [and not yet, Recommender System].
+- **Week 8:** Anomaly Detection and Recommender System.
 
