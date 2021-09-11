@@ -11,6 +11,7 @@ What have been implemented:
 - **Week 4:** Backpropagation.
 - **Week 5:** Debugging learning algorithms (cross validation) [no Python].
 - **Week 6:** Support Vector Machine.
-- **Week 7:** K-Means Clustering & Dimensionality Reduction [no Python].
+From now on, I practice my ML Python skills on Kaggle, so no more Python here.
+- **Week 7:** K-Means Clustering & Dimensionality Reduction.
 - **Week 8:** Anomaly Detection [and not yet, Recommender System].
 
